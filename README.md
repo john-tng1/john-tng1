@@ -39,4 +39,4 @@ This is based on the curriculum from Daniel Bourke - an inspiring Machine Learni
 
 #### Certification
 
-- Google Data Analytics Certificate, [issued by Coursera in July 2021](https://www.credly.com/badges/5abaf8af-10d5-44cd-90bc-6fd9a3831cd2)
+- Google Data Analytics Certificate, [issued by Coursera in Sep 2021](https://www.credly.com/badges/5abaf8af-10d5-44cd-90bc-6fd9a3831cd2)
