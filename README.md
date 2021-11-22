@@ -19,15 +19,13 @@ My name is John and I work as a Tech Support Engineer in Consumer Electronics.
 #### About me
 
 - Electronics Repair and Manufacturing with 6 years of professional experience
-  
-- Transitioning to Software Developer in Sep 2021
 
-- Loves working with numbers, solving technical/business problems, and learning new skills. I self-taught myself SQL, Python and Machine Learning technicques
+- Loves working with numbers, making process diagrams, solving technical/business problems, and learning new skills. I self-taught myself SQL, Python and Machine Learning techniques
   
 #### Skills and Tools
 
-- Tools: SQL (PostgreSQL), Python (Pandas, NUmpu, Matplotlib), Excel (Vlookup, PowerQuery) ReactJS
-- Skills: Web Development, Data Cleaning,Exploratory Data Analysis, Data Visualisation, Machine Learning skills
+- Tools: SQL (PostgreSQL), Python (Pandas, Numpy, Matplotlib), Excel (Vlookup, PowerQuery) ReactJS
+- Skills: Web Development, Data Cleaning, Exploratory Data Analysis, Data Visualisation, Machine Learning skills
 
 #### Currently Learning
 
@@ -41,4 +39,4 @@ This is based on the curriculum from Daniel Bourke - an inspiring Machine Learni
 
 #### Certification
 
-- To be added
+- Google Data Analytics Certificate, [issued by Coursera in July 2021](https://www.credly.com/badges/5abaf8af-10d5-44cd-90bc-6fd9a3831cd2)
